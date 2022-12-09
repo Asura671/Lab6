@@ -1,7 +1,5 @@
 #include<iostream>
 using namespace std;
-#include<iostream>
-using namespace std;
 int n,nE = 0,nO = 0;
 int main(){
     do{
